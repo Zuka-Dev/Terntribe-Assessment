@@ -1,0 +1,19 @@
+{
+  "name": "task",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "This is Terntribe Back End Develpment Assessment",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ifeanyichukwu Azuka",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "uuid": "^11.0.5"
+  }
+}
